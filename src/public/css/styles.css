@@ -16,7 +16,7 @@ body {
   height: 100%;
   padding-top: 8rem;
   
-  background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.7)), url('/img/fondo.jpeg');
+  background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.7)), url('/img/fondo.webp');
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;

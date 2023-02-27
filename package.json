@@ -2,7 +2,7 @@
   "name": "nodejs-mysql-app",
   "version": "1.0.0",
   "description": "",
-  "homepage": "http://Matias-S1lva.github.io/Node-mySql-app",
+  "homepage": "https://Matias-S1lva.github.io/Node-mySql-app",
   "main": "index.js",
   "scripts": {
     "dev": "nodemon src/index.js",
@@ -27,6 +27,7 @@
     "timeago.js": "^4.0.2"
   },
   "devDependencies": {
+    "gh-pages": "^5.0.0",
     "nodemon": "^2.0.19"
   }
 }

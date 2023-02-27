@@ -26,4 +26,3 @@ git commit -m 'deploy'
 # if you are deploying to https://<USERNAME>.github.io/<REPO>
 git push -f git@github.com:Matias-S1lva/Node-mySql-app.git main:gh-pages
 
-cd -

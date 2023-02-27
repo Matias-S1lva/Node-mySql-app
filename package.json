@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "homepage": "https://Matias-S1lva.github.io/Node-mySql-app",
-  "main": "index.js",
+  "main": "./src/index.js",
   "scripts": {
     "dev": "nodemon src/index.js",
     "start": "node src/index.js"
